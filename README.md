@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Gustavo Gama
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Santos Da Gama, tenho 21 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na Estácio de Sá. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Prog](https://www.youtube.com/@prog-rammer)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/gustavogamaprog/)".
+Me chamo Gustavo Santos Da Gama, tenho 21 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na Estácio de Sá. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Prog](https://www.youtube.com/@prog-rammer/)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Gustavo Gama | Programador](https://www.instagram.com/gustavogamaprog/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
