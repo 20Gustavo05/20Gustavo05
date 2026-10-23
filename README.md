@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gustavo Gama
+# 🧑‍💻 Gustavo Gama
 
 **`Desenvolvedor FullStack`**
 
